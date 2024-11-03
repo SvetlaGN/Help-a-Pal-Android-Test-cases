@@ -1,1 +1,1 @@
-# SvetlaGN-Help-a-Pal-app-Test-cases
+# Help-a-Pal-app-Test-cases
