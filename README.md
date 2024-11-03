@@ -1,1 +1,1 @@
-# Help-a-Pal-app-Test-cases
+# Help-a-Pal-Android-Test-cases
